@@ -1,25 +1,36 @@
-# 🚀 Atividades Práticas e Estudos
+# Programação Orientada a Objetos (POO) — Atividades Práticas e Exercícios
 
-Bem-vindo(a) ao meu repositório de estudos! 👋
-
-Este repositório reúne os exercícios, desafios, projetos práticos e anotações desenvolvidos durante a minha jornada de aprendizado em programação e desenvolvimento de sistemas.
+Este repositório reúne o conjunto de atividades práticas, exercícios de fixação e projetos desenvolvidos no âmbito dos meus estudos da disciplina de **Programação Orientada a Objetos (POO)**.
 
 ---
 
 ## 🎯 Objetivo
 
-O objetivo principal deste repositório é documentar a minha evolução técnica, consolidar conceitos teóricos através da prática e manter um histórico organizado de tudo o que venho aprendendo.
+O objetivo deste repositório é consolidar os fundamentos da abordagem de desenvolvimento orientado a objetos, aplicando conceitos teóricos no projeto, modelagem e implementação de soluções de software estruturadas e reusáveis.
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📚 Conceitos e Tópicos Abordados
 
-A estrutura das pastas está organizada por disciplina, módulo ou tecnologia:
+As implementações contidas neste repositório abordam os seguintes tópicos centrais da POO:
+
+- **Abstração e Encapsulamento:** Definição de classes, atributos, métodos, modificadores de acesso e ocultação de informação.
+- **Herança e Polimorfismo:** Reuso de código por especialização de classes, sobrescrita/sobrecarga de métodos e interfaces.
+- **Associação, Agregação e Composição:** Modelagem de relacionamentos entre objetos.
+- **Tratamento de Exceções:** Robustez no gerenciamento de erros em tempo de execução.
+- **Padrões de Projeto (Design Patterns):** Aplicação de soluções recorrentes para problemas clássicos de arquitetura de software.
+
+---
+
+## 📂 Estrutura de Diretórios
+
+O código-fonte está estruturado de forma temática para facilitar a navegação:
 
 ```text
 .
-├── 📁 algoritmos-e-logica/       # Exercícios de lógica e algoritmos
-├── 📁 estrutura-de-dados/       # Implementações e práticas de ED
-├── 📁 desenvolvimento-web/        # Projetos, layouts e componentes web
-├── 📁 banco-de-dados/           # Scripts SQL, modelagem e queries
-└── 📁 projetos-praticos/        # Projetos menores integrando múltiplos conceitos
+├── 📁 01-conceitos-fundamentais/  # Classes, objetos, atributos e métodos
+├── 📁 02-encapsulamento/          # Getters, setters e controle de acesso
+├── 📁 03-heranca-e-polimorfismo/  # Relacionamentos "é-um" e sobrescrita de métodos
+├── 📁 04-interfaces-e-abstracao/  # Classes abstratas e contratos de interface
+├── 📁 05-tratamento-excecoes/     # Gestão de erros e exceções customizadas
+└── 📁 projetos-praticos/          # Sistemas e estudos de caso integrados
